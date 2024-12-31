@@ -64,19 +64,11 @@ Developer em transição de carreira, com experiência em suporte técnico e API
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="SQLDEVELOPER" 
+    title="SQLDEVELOPER"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" 
 />
 <img 
     align="left" 

@@ -5,7 +5,11 @@
 
 Developer em transição de carreira, com experiência em suporte técnico e APIs em e-commerce. Estudante de Análise e Desenvolvimento de Sistemas, focado em Java, SQL e soluções inovadoras. Entusiasta da tecnologia desde os games para MS-DOS.
 
-### 🤖 Linguagens e Tecnologias
+---------------------------------------------------------------------------------------
+
+Developer transitioning careers, with experience in technical support and APIs for e-commerce. Systems Analysis and Development student, focused on Java, SQL, and innovative solutions. Technology enthusiast since the days of MS-DOS games.
+
+### 🤖 Linguagens e Tecnologias /  Languages and Technologies
 
 
 <img 
